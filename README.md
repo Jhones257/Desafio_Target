@@ -20,7 +20,7 @@ Este projeto contém soluções para cinco desafios para o processo seletivo Tar
 ## Como Executar
 
 1. Clone o repositório.
-2. Instale as dependências:
+2. Instale as dependências: Python
 3. Para executar os testes unitários execute o comando abaixo na pasta
 ```bash
 export PYTHONPATH=$(pwd)
